@@ -32,7 +32,7 @@ def subtract(a: Number, b: Number) -> Number:
         The result of a - b
     """
     # TODO: Implement this function
-    pass
+    return a + b
 
 
 def multiply(a: Number, b: Number) -> Number:
